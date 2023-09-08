@@ -30,22 +30,6 @@
 
 * * *
 
-#### Dataset - pokemon.csv
-
-> https://www.kaggle.com/datasets/abcsds/pokemon
-
-* This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
-
-* With certain types you can also give a geeky introduction to machine learning.
-
-* These are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (NOT pokemon cards or Pokemon Go).
-
-The data for this table has been acquired from several different sites, including:
-
-* pokemon.com
-* pokemondb
-* bulbapedia
-
 #### Process
 
 1. Defining Objective: Classifying Legendary pokemon and ordinary pokemon
@@ -70,3 +54,22 @@ The data for this table has been acquired from several different sites, includin
     - Training with preprocessed data
 
 * Metric - “Recall” (of True)
+
+* * *
+
+#### Dataset - pokemon.csv
+
+> https://www.kaggle.com/datasets/abcsds/pokemon
+
+* This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
+
+* With certain types you can also give a geeky introduction to machine learning.
+
+* These are the raw attributes that are used for calculating how much damage an attack will do in the games. This dataset is about the pokemon games (NOT pokemon cards or Pokemon Go).
+
+The data for this table has been acquired from several different sites, including:
+
+* pokemon.com
+* pokemondb
+* bulbapedia
+
