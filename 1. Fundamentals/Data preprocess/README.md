@@ -30,7 +30,7 @@
 
 * * *
 
-##### Dataset
+#### Dataset
 
 * This data set includes 721 Pokemon, including their number, name, first and second type, and basic stats: HP, Attack, Defense, Special Attack, Special Defense, and Speed.
 
@@ -46,7 +46,7 @@ The data for this table has been acquired from several different sites, includin
 
 > bulbapedia
 
-##### Process
+#### Process
 
 1. Defining Objective: Classifying Legendary pokemon and ordinary pokemon
 
