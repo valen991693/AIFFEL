@@ -16,3 +16,5 @@ This is for leaving study footprints.
 > Min-Max Scaling
 ###### One-Hot Encoding
 ###### Binning
+
+* * *
