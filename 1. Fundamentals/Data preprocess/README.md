@@ -15,6 +15,7 @@ This is for leaving study footprints.
 > z-score
 
 > IQR
+
 ###### 4. Normalization
 
 > Standardization
