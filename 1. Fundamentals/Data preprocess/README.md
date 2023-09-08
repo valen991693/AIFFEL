@@ -6,15 +6,15 @@ This is for leaving study footprints.
 
 * * *
 
-###### Missing Data
-###### duplicate data
-###### Outlier
+###### 1. Missing Data
+###### 2. duplicate data
+###### 3. Outlier
 > z-score
 > IQR
-###### Normalization
+###### 4. Normalization
 > Standardization
 > Min-Max Scaling
-###### One-Hot Encoding
-###### Binning
+###### 5. One-Hot Encoding
+###### 6. Binning
 
 * * *
