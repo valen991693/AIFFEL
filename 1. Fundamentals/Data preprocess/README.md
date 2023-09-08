@@ -42,11 +42,9 @@
 
 The data for this table has been acquired from several different sites, including:
 
-> pokemon.com
-
-> pokemondb
-
-> bulbapedia
+* pokemon.com
+* pokemondb
+* bulbapedia
 
 #### Process
 
