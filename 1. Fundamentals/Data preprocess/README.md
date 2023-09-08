@@ -2,15 +2,15 @@
 
 This is for leaving study footprints.
 
-## Preprocessing.ipynb
+### Preprocessing.ipynb
 
-##### Missing Data
-##### duplicate data
-##### Outlier
+###### Missing Data
+###### duplicate data
+###### Outlier
 > z-score
 > IQR
-##### Normalization
+###### Normalization
 > Standardization
 > Min-Max Scaling
-##### One-Hot Encoding
-##### Binning
+###### One-Hot Encoding
+###### Binning
