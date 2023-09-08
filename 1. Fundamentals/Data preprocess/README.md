@@ -28,8 +28,6 @@
 
 ### Pokemon_EDA.ipynb
 
-* * *
-
 #### Process
 
 1. Defining Objective: Classifying Legendary pokemon and ordinary pokemon
